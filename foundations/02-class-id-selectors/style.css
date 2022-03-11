@@ -1,4 +1,8 @@
 .pinkred {
-    background-color: lightpink;
+    background-color: rgb(255, 182, 193);
     font-family: Verdana, "DejaVu sans", sans-serif;
+}
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
 }
