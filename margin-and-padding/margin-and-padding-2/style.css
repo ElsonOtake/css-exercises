@@ -19,10 +19,7 @@ body {
 
 .content {
   background: #e3f4ff;
-  padding-left: 8px;
-  padding-right: 8px;
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding: 16px 8px;
   margin: 8px;
 }
 
