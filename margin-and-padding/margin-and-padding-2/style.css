@@ -28,6 +28,8 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  padding: 8px;
+  text-align: center;
   margin: 8px;
 }
 
