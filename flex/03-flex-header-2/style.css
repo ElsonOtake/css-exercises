@@ -48,3 +48,9 @@ ul {
   list-style-type: none;
   display: flex;
 }
+
+.left, .right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
